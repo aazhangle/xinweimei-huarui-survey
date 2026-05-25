@@ -1,0 +1,9 @@
+name = "xinweimei-huarui-survey"
+compatibility_date = "2026-05-25"
+pages_build_output_dir = "dist/public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "xinweimei-survey"
+database_id = "7044b327-aa9d-41ad-85c2-b2a213675a81"
+migrations_dir = "migrations"
